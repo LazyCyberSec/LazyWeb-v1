@@ -18,6 +18,7 @@ def detect_sql_injection(url, payload):
         r"MySQLSyntaxErrorException",
         r"valid MySQL result",
         r"check the manual that (corresponds to|fits) your MySQL server version",
+        r"SQL syntax",
     ]
     potential_sql_injection = False
     for pattern in sql_injection_patterns:
