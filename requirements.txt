@@ -1,0 +1,6 @@
+webbrowser
+streamlit
+requests
+beautifulsoup4
+datetime
+
