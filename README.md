@@ -16,6 +16,7 @@ Ini adalah web tools lazy cyber security untuk membantu kalian dalam bug hunting
 
 ## How To install
 ```
+NOTE : Kamu harus punya versi python yang terbaru
 [1] git clone https://github.com/LazyCyberSec/LazyWeb-v1
 [2] cd LazyWeb-v1
 [3] pip install -r requirements.txt
