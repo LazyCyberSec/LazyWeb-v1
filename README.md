@@ -22,6 +22,7 @@ NOTE : Kamu harus punya versi python yang terbaru
 [3] pip install -r requirements.txt
 [4] execute lazyweb.exe
 ```
+``` Jika ada bug hubungi saya di discord lazy cyber security ```
 
 ## More Preview
 ![image](https://github.com/LazyCyberSec/LazyWeb-v1/assets/51275510/3f602d6f-2951-41f8-8d55-ecdcea8c7c8e)
