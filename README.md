@@ -5,6 +5,7 @@ Ini adalah web tools lazy cyber security untuk membantu kalian dalam bug hunting
 ![image](https://github.com/LazyCyberSec/LazyWeb-v1/assets/51275510/6b53fe70-20eb-40e4-b941-2b75d62f5ad7)
 ## Fitur-Fitur
 ```
+-web nya bisa di akses di hp/device yang satu jaringan
 -Admin Finder
 -Bing Subdomain finder
 -Mass CMS Checker
